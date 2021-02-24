@@ -1,0 +1,4 @@
+- regdata: {"mobilephone":"18066668888","pwd":"abcd_1"}
+  logindata: {"mobilephone":"18066668888","pwd":"abcd_1"}
+  rechargedata: {"mobilephone":"18066668888","amount": "1000"}
+  expect: {"status":1,"code":"10001","msg":}
